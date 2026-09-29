@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Agenda | MUSS</title>
+    <meta name="description" content="Próximos cultos, ensaios e eventos do MUSS.">
+    <meta property="og:title" content="Agenda | MUSS">
+    <meta property="og:description" content="Próximos cultos, ensaios e eventos do MUSS.">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#173f38">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<!-------------------------------------------------------------------------------------------->
+
+<body>
+    <header class="site-header">
+        <div class="container nav"><a class="brand" href="index.html"><span class="brand-mark"><img
+                        src="assets/img/logo-muss-gold.webp" alt="MUSS"></span><span
+                    class="brand-text"><strong>MUSS</strong><small>Ministério Um só Som</small></span></a>
+            <nav class="nav-links"><a class="" href="index.html">Início</a><a class=""
+                    href="repertorio.html">Repertório</a><a class="" href="setlists.html">Setlists</a><a class=""
+                    href="escalas.html">Escalas</a><a class="active" href="agenda.html">Agenda</a><a class=""
+                    href="estudos.html">Estudos</a><a class="" href="downloads.html">Downloads</a><a class=""
+                    href="contato.html">Contato</a></nav><button id="menu-toggle" class="nav-toggle"
+                aria-label="Abrir menu">☰</button>
+        </div>
+    </header>
+    <!-------------------------------------------------------------------------------------------->
+
+    <main>
+        <section class="page-hero">
+            <div class="container">
+                <div class="eyebrow"><span class="dot"></span> Calendário</div>
+                <h1>Agenda</h1>
+                <p>Cultos, ensaios, reuniões e outros compromissos organizados por data e horário.</p>
+            </div>
+        </section>
+        <!-------------------------------------------------------------------------------------------->
+
+        <section class="section">
+            <div class="container">
+                <div class="toolbar"><input id="agenda-search" class="field search"
+                        placeholder="Buscar evento, culto ou local…"><select id="agenda-filter" class="field">
+                        <option value="todos">Todos</option>
+                        <option value="futuros" selected>Próximos</option>
+                        <option value="passados">Passados</option>
+                    </select><select id="agenda-sort" class="field">
+                        <option value="recentes">Mais recentes</option>
+                        <option value="antigos" selected>Mais antigos</option>
+                    </select>
+                    <div class="view-toggle" id="agenda-view"><button data-view="lista" type="button">☰
+                            Lista</button><button data-view="cards" type="button">▦ Cards</button></div>
+                </div>
+                <div id="agenda" class="calendar-list" style="margin-top:18px"></div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-------------------------------------------------------------------------------------------->
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="footer-brand"><a class="brand" href="index.html"><span class="brand-mark"><img
+                                src="assets/img/logo-muss-gold.webp" alt="MUSS"></span><span class="brand-text"><strong
+                                style="color:#fff">MUSS</strong><small style="color:#8aa39d">Ministério Um só
+                                Som</small></span></a>
+                    <p>Organização que ajuda a equipe a servir com excelência. Músicas, escalas, setlists e estudos em
+                        um só lugar.</p>
+                    <div class="footer-social" style="margin-top:14px"><a href="https://www.instagram.com/batista_getsemani_/" target="_blank" title="Instagram">Instagram</a></div>
+                </div>
+                <div class="footer-col">
+                    <h4>Navegação</h4><a href="repertorio.html">Repertório</a><a href="setlists.html">Setlists</a><a
+                        href="escalas.html">Escalas</a><a href="agenda.html">Agenda</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Recursos</h4><a href="estudos.html">Estudos</a><a href="downloads.html">Downloads</a><a
+                        href="contato.html">Contato</a><span style="margin-top:10px;color:#7a9a93">Igreja Batista Getsemani</span><span>São João do Manhuaçu - MG</span>
+                </div>
+            </div>
+            <div class="footer-bottom"><span>© 2026 MUSS — Ministério Um só Som. Todos os direitos
+                    reservados.</span><span>Feito com amor para servir melhor.</span></div>
+        </div>
+    </footer>
+
+    <script src="assets/js/data.js?v=9.1.0"></script>
+    <script src="assets/js/app.js?v=9.1.0"></script>
+</body>
+
+</html>
