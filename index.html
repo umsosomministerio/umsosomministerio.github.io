@@ -1,11 +1,162 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Hello World</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>MUSS | Ministério Um só Som</title>
+    <meta name="description"
+        content="MUSS - Ministério Um Só Som: repertório, setlists, escalas e agenda do grupo de louvor, tudo em um só lugar.">
+    <meta property="og:title" content="MUSS | Ministério Um só Som">
+    <meta property="og:description"
+        content="MUSS - Ministério Um Só Som: repertório, setlists, escalas e agenda do grupo de louvor, tudo em um só lugar.">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#173f38">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" href="assets/img/logo-muss-gold.webp">
 </head>
+
+<!-------------------------------------------------------------------------------------->
+
 <body>
-    <h1>Hello World!</h1>
-    <p>Esta é a minha primeira página HTML.</p>
+    <header class="site-header">
+        <div class="container nav"><a class="brand" href="index.html"><span class="brand-mark"><img
+                        src="assets/img/logo-muss-gold.webp" alt="MUSS"></span><span
+                    class="brand-text"><strong>MUSS</strong><small>Ministério Um só Som</small></span></a>
+            <nav class="nav-links"><a class="active" href="index.html">Início</a><a class=""
+                    href="repertorio.html">Repertório</a><a class="" href="setlists.html">Setlists</a><a class=""
+                    href="escalas.html">Escalas</a><a class="" href="agenda.html">Agenda</a><a class=""
+                    href="estudos.html">Estudos</a><a class="" href="downloads.html">Downloads</a><a class=""
+                    href="contato.html">Contato</a></nav><button id="menu-toggle" class="nav-toggle"
+                aria-label="Abrir menu">☰</button>
+        </div>
+    </header>
+    <!-------------------------------------------------------------------------------------->
+
+    <main>
+        <section class="hero">
+            <div class="container hero-grid">
+                <div>
+                    <div class="eyebrow"><span class="dot"></span> MUSS</div>
+                    <h1>Preparar bem para <em>servir melhor.</em></h1>
+                    <p>Um espaço simples para organizar músicas, setlists, escalas e os próximos cultos — tudo conectado
+                        pelo mesmo evento.</p>
+                    <div class="actions"><a class="btn btn-primary" href="agenda.html">Ver próximas agendas →</a><a
+                            class="btn btn-secondary" href="repertorio.html">Abrir repertório</a></div>
+                </div>
+                <div id="next-card" class="hero-card"></div>
+            </div>
+        </section>
+        <!-------------------------------------------------------------------------------------->
+
+         <section class="section">
+            <div class="container">
+                
+                <div class="quick-grid"><a class="quick" href="repertorio.html">
+                        <div class="icon">♫</div>
+                        <h3>Repertório</h3>
+                        <p>Encontre músicas, letras, cifras e links para ouvir.</p>
+                    </a><a class="quick" href="setlists.html">
+                        <div class="icon">☷</div>
+                        <h3>Setlists</h3>
+                        <p>Veja a ordem das músicas de cada culto.</p>
+                    </a><a class="quick" href="escalas.html">
+                        <div class="icon">♙</div>
+                        <h3>Escalas</h3>
+                        <p>Saiba quem está responsável por cada função.</p>
+                    </a><a class="quick" href="agenda.html">
+                        <div class="icon">□</div>
+                        <h3>Agenda</h3>
+                        <p>Tenha uma visão rápida dos próximos encontros.</p>
+                    </a></div>
+            </div>
+        </section>
+
+        <!-------------------------------------------------------------------------------------->
+
+        <section class="section">
+            <div class="container two-col">
+                <div class="panel">
+                    <div class="section-head">
+                        <div>
+                            <h2>Próximos cultos</h2>
+                            <p>Uma visão rápida da agenda.</p>
+                        </div><a class="link" href="agenda.html">Ver tudo →</a>
+                    </div>
+                    <div id="home-agenda"></div>
+                </div>
+                <div style="display:flex;flex-direction:column;gap:20px">
+                    
+                    <div class="panel recado-panel">
+                        <div class="section-head">
+                            <div>
+                                <h2>Recado da liderança</h2>
+                            </div>
+                        </div>
+                        <div id="recado-lideranca"></div>
+                    </div>
+                    <div class="panel verse-panel">
+                        <div class="section-head">
+                            <div>
+                                <h2>Versículo do dia</h2>
+                            </div>
+                        </div>
+                        <div id="versiculo-dia"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-------------------------------------------------------------------------------------->
+
+       
+
+        <section class="section"
+            style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+            <div class="container">
+                <div class="section-head">
+                    <div>
+                        <h2>Conteúdos recentes</h2>
+                        <p>Os conteúdos mais recentes do MUSS.</p>
+                    </div><a class="link" href="estudos.html">Ver todos →</a>
+                </div>
+                <div id="estudos" class="blog-grid"></div>
+            </div>
+        </section>
+        
+    </main>
+
+    <!-------------------------------------------------------------------------------------->
+    
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="footer-brand"><a class="brand" href="index.html"><span class="brand-mark"><img
+                                src="assets/img/logo-muss-gold.webp" alt="MUSS"></span><span class="brand-text"><strong
+                                style="color:#fff">MUSS</strong><small style="color:#8aa39d">Ministério Um só
+                                Som</small></span></a>
+                    <p>Organização que ajuda a equipe a servir com excelência. Músicas, escalas, setlists e estudos em
+                        um só lugar.</p>
+                    <div class="footer-social" style="margin-top:14px"><a href="https://www.instagram.com/batista_getsemani_/" target="_blank" title="Instagram">Instagram</a></div>
+                </div>
+                <div class="footer-col">
+                    <h4>Navegação</h4><a href="repertorio.html">Repertório</a><a href="setlists.html">Setlists</a><a
+                        href="escalas.html">Escalas</a><a href="agenda.html">Agenda</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Recursos</h4><a href="estudos.html">Estudos</a><a href="downloads.html">Downloads</a><a
+                        href="contato.html">Contato</a><span style="margin-top:10px;color:#7a9a93">Igreja Batista Getsemani</span><span>São João do Manhuaçu - MG</span>
+                </div>
+            </div>
+            <div class="footer-bottom"><span>© 2026 MUSS — Ministério Um só Som. Todos os direitos
+                    reservados.</span><span>Feito com amor para servir melhor.</span></div>
+        </div>
+    </footer>
+
+    <!-------------------------------------------------------------------------------------->
+
+    <script src="assets/js/data.js?v=9.1.0"></script>
+    <script src="assets/js/app.js?v=9.1.0"></script>
+    
 </body>
+
 </html>
