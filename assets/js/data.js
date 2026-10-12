@@ -5,7 +5,6 @@ window.LOUVOR_DATA = {
       "titulo": "O que sua Gloria fez comigo",
       "artista": "Fernanda Brum",
       "ouvir": "https://www.youtube.com/watch?v=9fZph9kZkgM",
-      "spotify": "https://open.spotify.com/intl-pt/track/0Y9nHU2Fhl76LHbRRmNQ6X?si=7cca3d42c9b14f80",
       "letras": [
         {
           "label": "Letra",
@@ -24,13 +23,7 @@ window.LOUVOR_DATA = {
       "titulo": "Abre os selos",
       "artista": "Nívea Soares",
       "ouvir": "https://www.youtube.com/watch?v=j940PKO3F4A",
-      "spotify": "https://open.spotify.com/intl-pt/track/2b0UBZsCXF1fsJ2tClZPdh?si=0c035cc0556c4e89",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/nivea-soares/abre-os-selos/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/nivea-soares/abre-os-selos/",
       "cifras": [
         {
           "label": "Cifra",
@@ -43,13 +36,7 @@ window.LOUVOR_DATA = {
       "titulo": "Santo pra sempre",
       "artista": "Ana Nóbrega",
       "ouvir": "https://www.youtube.com/watch?v=-841Zit4t30",
-      "spotify": "https://open.spotify.com/intl-pt/track/48EVizWqKCp2WRa1L5OGDg?si=de44156edb154b39",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/ana-nobrega/santo-pra-sempre/",
       "cifras": [
         {
           "label": "Cifra",
@@ -62,13 +49,7 @@ window.LOUVOR_DATA = {
       "titulo": "Eu me rendo",
       "artista": "Renascer Praise",
       "ouvir": "https://www.youtube.com/watch?v=qmRVarX4X1M",
-      "spotify": "https://open.spotify.com/intl-pt/track/6teaCqn4Izl1Af1ErKcUjQ?si=bdb8edc6142943a0",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.com/renascer-praise/856021/"
-        }
-      ],
+      "letra": "https://www.letras.com/renascer-praise/856021/",
       "cifras": [
         {
           "label": "Cifra",
@@ -81,13 +62,7 @@ window.LOUVOR_DATA = {
       "titulo": "Santo Espírito",
       "artista": "Laura Souguelis",
       "ouvir": "https://www.youtube.com/watch?v=J2rTdu7vqTE",
-      "spotify": "https://open.spotify.com/intl-pt/track/6IPLMxWOxKMhhTrcoMpvsC?si=1f5f8eb8ee7846bd",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/laura-souguellis/santo-espirito-holy-spirit/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/laura-souguellis/santo-espirito-holy-spirit/",
       "cifras": [
         {
           "label": "Cifra",
@@ -100,13 +75,7 @@ window.LOUVOR_DATA = {
       "titulo": "Toca em mim de novo",
       "artista": "Isadora Pompeo",
       "ouvir": "https://www.youtube.com/watch?v=87Xkee96Gk4",
-      "spotify": "https://open.spotify.com/intl-pt/track/5jztY2semlZDUkLAmwxq9f?si=5240fce9fd8b4423",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/isadora-pompeo/toca-em-mim-de-novo/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/isadora-pompeo/toca-em-mim-de-novo/",
       "cifras": [
         {
           "label": "Cifra",
@@ -119,13 +88,7 @@ window.LOUVOR_DATA = {
       "titulo": "Grande é o Senhor",
       "artista": "Eli Soares",
       "ouvir": "https://www.youtube.com/watch?v=6OnuqNFeGUY",
-      "spotify": "https://open.spotify.com/intl-pt/track/0DR8OCMH9Vv966ZOdWykGp?si=4802855005884261",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/nivea-soares/1094801/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/nivea-soares/1094801/",
       "cifras": [
         {
           "label": "Cifra",
@@ -138,13 +101,7 @@ window.LOUVOR_DATA = {
       "titulo": "Clamo Jesus",
       "artista": "Paulo Cesar Baruk, Marsena",
       "ouvir": "https://www.youtube.com/watch?v=ye9caqETC0A",
-      "spotify": "https://open.spotify.com/intl-pt/track/3Ns4xzoj5d1r0K5pc9uq64?si=baab00e00e674c37",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/paulo-cesar-baruk/clamo-jesus/",
       "cifras": [
         {
           "label": "Cifra",
@@ -157,13 +114,7 @@ window.LOUVOR_DATA = {
       "titulo": "Quem é como nosso Deus",
       "artista": "Nívea Soares",
       "ouvir": "https://www.youtube.com/watch?v=QRilv78Rroc",
-      "spotify": "https://open.spotify.com/intl-pt/track/12lShKyr5n3B8qobwzxepl?si=867d9cd6998b4869",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/nivea-soares/quem-e-como-nosso-deus/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/nivea-soares/quem-e-como-nosso-deus/",
       "cifras": [
         {
           "label": "Cifra",
@@ -175,18 +126,12 @@ window.LOUVOR_DATA = {
       "id": 10,
       "titulo": "Relance (Digno é o Cordeiro)",
       "artista": "Diante do Trono",
-      "ouvir": "https://www.youtube.com/watch?v=X3MpMelN1UoE",
-      "spotify": "https://open.spotify.com/intl-pt/track/5qDzrzzrB5VinJabXLRY6M?si=9aafa2ed537742fa",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/diante-do-trono/medley-relance-digno-e-o-cordeiro/"
-        }
-      ],
+      "ouvir": "https://www.youtube.com/watch?v=Zv-xC5lMcWE",
+      "letra": "https://www.letras.mus.br/diante-do-trono/medley-relance-digno-e-o-cordeiro/",
       "cifras": [
         {
           "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/diante-do-trono/medley-relance-digno-e-o-cordeiro/"
+          "url": "https://www.cifraclub.com.br/diante-do-trono/relance/"
         }
       ]
     },
@@ -195,13 +140,7 @@ window.LOUVOR_DATA = {
       "titulo": "Eu vou construir",
       "artista": "Nívea Soares",
       "ouvir": "https://www.youtube.com/watch?v=bFoIro0Zl2Y",
-      "spotify": "https://open.spotify.com/intl-pt/track/4DVIA9RLre5v407SeMerY3?si=a566b410394248bc",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/nivea-soares/eu-vou-construir/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/nivea-soares/eu-vou-construir/",
       "cifras": [
         {
           "label": "Cifra",
@@ -214,13 +153,7 @@ window.LOUVOR_DATA = {
       "titulo": "Canção ao Cordeiro",
       "artista": "Israel Salazar, Gabriel Guedes",
       "ouvir": "https://www.youtube.com/watch?v=bxMzZVfh7zc",
-      "spotify": "https://open.spotify.com/intl-pt/track/5j8xhuYHyRqo0GZLaGkDun?si=e344f54321184da0",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/israel-salazar/cancao-ao-cordeiro-part-gabriel-guedes/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/israel-salazar/cancao-ao-cordeiro-part-gabriel-guedes/",
       "cifras": [
         {
           "label": "Cifra",
@@ -233,13 +166,7 @@ window.LOUVOR_DATA = {
       "titulo": "Eu Vi Alguém Mais Belo",
       "artista": "Fhop Music",
       "ouvir": "https://www.youtube.com/watch?v=PgDFyCdv80o",
-      "spotify": "https://open.spotify.com/intl-pt/track/5UUSwyFpuHfYUlC1PuARWR?si=0582482c31664019",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/florianopolis-house-of-prayer/eu-vi-alguem-mais-belo/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/florianopolis-house-of-prayer/eu-vi-alguem-mais-belo/",
       "cifras": [
         {
           "label": "Cifra",
@@ -252,13 +179,7 @@ window.LOUVOR_DATA = {
       "titulo": "Os que olham para Ti",
       "artista": "Fhop Music",
       "ouvir": "https://www.youtube.com/watch?v=Dv-7mBQNEIo",
-      "spotify": "https://open.spotify.com/intl-pt/track/26NSOYXNmCUfZvjuJuTyIf?si=bcce5987b1424b08",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/florianopolis-house-of-prayer/os-que-olham-para-ti/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/florianopolis-house-of-prayer/os-que-olham-para-ti/",
       "cifras": [
         {
           "label": "Cifra",
@@ -271,13 +192,7 @@ window.LOUVOR_DATA = {
       "titulo": "Vem, esta é hora",
       "artista": "Vineyard",
       "ouvir": "https://www.youtube.com/watch?v=7j5aLkEe_vE",
-      "spotify": "https://open.spotify.com/intl-pt/track/6TtRO4g6VEOtpNrks0e7zB?si=331278084bcd42cf",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/vineyard/69527/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/vineyard/69527/",
       "cifras": [
         {
           "label": "Cifra",
@@ -290,13 +205,7 @@ window.LOUVOR_DATA = {
       "titulo": "Nosso general",
       "artista": "Adhemar de Campos, Nívea Soares",
       "ouvir": "https://www.youtube.com/watch?v=XKFHXLzsZ5Q",
-      "spotify": "https://open.spotify.com/intl-pt/track/7zgTca2zHEWFWnkXf4USLv?si=47c0141b0e1d4b8c",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/nivea-soares/nosso-general-part-adhemar-de-campos/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/nivea-soares/nosso-general-part-adhemar-de-campos/",
       "cifras": [
         {
           "label": "Cifra",
@@ -309,13 +218,7 @@ window.LOUVOR_DATA = {
       "titulo": "Óleo de alegria",
       "artista": "Alda Célia",
       "ouvir": "https://www.youtube.com/watch?v=ULUYuQ4ZWwM",
-      "spotify": "https://open.spotify.com/intl-pt/track/6QZKJca6OcfBg0N8REwxMS?si=06e763a583de4a1e",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/alda-celia/163065/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/alda-celia/163065/",
       "cifras": [
         {
           "label": "Cifra",
@@ -325,35 +228,18 @@ window.LOUVOR_DATA = {
     },
     {
       "id": 18,
-      "titulo": "Medley Ouve-se o Júbilo/O Leão da Tribo de Judá/",
-      "artista": "Morada",
-      "ouvir": "https://www.youtube.com/watch?v=mf-MBod9K_I",
-      "spotify": "https://open.spotify.com/intl-pt/track/0ejnofglgLxwmt24MSMlSe?si=9dbcec7d02154290",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/ministerio-morada/leao-de-juda-medley/"
-        }
-      ],
-      "cifras": [
-        {
-          "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/ministerio-morada/leao-de-juda-medley/"
-        }
-      ]
+      "titulo": "Medley Ouve-se o Júbilo/O Leão da Tribo de Judá",
+      "artista": "Banda G8",
+      "ouvir": "https://www.youtube.com/watch?v=seQFiFVmcXI",
+      "letra": null,
+      "cifras": []
     },
     {
       "id": 19,
       "titulo": "Hoje é tempo de Louvar a Deus",
       "artista": "IBAB (Igreja Batista Água Branca)",
       "ouvir": "https://www.youtube.com/watch?v=tC036juC1EE",
-      "spotify": null,
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/ibab-celebracao/hoje-e-tempo-de-louvar-a-deus/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/ibab-celebracao/hoje-e-tempo-de-louvar-a-deus/",
       "cifras": [
         {
           "label": "Cifra",
@@ -366,13 +252,7 @@ window.LOUVOR_DATA = {
       "titulo": "Quebrantado",
       "artista": "Vineyard",
       "ouvir": "https://www.youtube.com/watch?v=QbnmpJo3DiI",
-      "spotify": "https://open.spotify.com/intl-pt/track/1A49v4tTVflPMyZomY2R5h?si=e1dace62684e4759",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/vineyard/1134190/"
-        }
-      ],
+      "letra": "https://www.letras.mus.br/vineyard/1134190/",
       "cifras": [
         {
           "label": "Cifra",
@@ -1097,82 +977,66 @@ window.LOUVOR_DATA = {
     },
     {
       "id": 73,
-      "titulo": "Te louvarei",
-      "artista": "Trazendo a Arca",
-      "ouvir": "https://www.youtube.com/watch?v=ori3KoKbW7E",
-      "spotify": "https://open.spotify.com/intl-pt/track/3Uk4Jh1mJRHT9MRlJl8hOD?si=7b8c458b00514bee",
+      "titulo": "Nunca foi sobre nós",
+      "artista": "Thamires Garcia",
+      "ouvir": "https://www.youtube.com/watch?v=uW9WI5Zyqmw",
       "letras": [
         {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/toque-no-altar/1300535/"
+          "label": "Letra 1",
+          "url": "https://www.letras.mus.br/thamires-garcia/nunca-foi-sobre-nos-doxologia/"
         }
       ],
       "cifras": [
         {
-          "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/toque-no-altar/te-louvarei/"
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "titulo": "Primeira Essência",
-      "artista": "Felipe Rodrigues",
-      "ouvir": "https://www.youtube.com/watch?v=eO9dUp5goWo",
-      "spotify": "https://open.spotify.com/intl-pt/album/1o7vpCv66GUHYQu74k7lpC?si=CjZLRAu1T-aa0ABFPhTs9g",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "http://letras.mus.br/felipe-rodrigues/discografia/primeira-essencia-2024/"
-        }
-      ],
-      "cifras": [
-        {
-          "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/felipe-rodrigues/primeira-essencia-ministracao-ao-vivo/"
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "titulo": "Sonda-me",
-      "artista": "Aline Barros",
-      "ouvir": "https://www.youtube.com/watch?v=qGsQ2JPvAa0",
-      "spotify": "https://open.spotify.com/intl-pt/track/0ozX4JUZkx1OWMVKRbaWTQ?si=eea9868bb5f840da",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/aline-barros/1131959/"
-        }
-      ],
-      "cifras": [
-        {
-          "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/aline-barros/sonda-me-usa-me/"
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "titulo": "Nada pode calar um adorador",
-      "artista": "Eyshila",
-      "ouvir": "https://www.youtube.com/watch?v=rDhJTDVZ1cI",
-      "spotify": "https://open.spotify.com/intl-pt/track/1yGsdYR6HBxRTMVJzD5FED?si=a159e6e1afca4bdf",
-      "letras": [
-        {
-          "label": "Letra",
-          "url": "https://www.letras.mus.br/eyshila/1589823/"
-        }
-      ],
-      "cifras": [
-        {
-          "label": "Cifra",
-          "url": "https://www.cifraclub.com.br/eyshila/nada-pode-calar-um-adorador/"
+          "label": "Cifra 1",
+          "url": "https://www.cifraclub.com.br/thamires-garcia/nunca-foi-sobre-nos-doxologia/"
         }
       ]
     }
   ],
   "cultos": [
+    {
+      "id": "2026-10-02-culto-1789310326968",
+      "data": "2026-10-02",
+      "culto": "",
+      "nome": "Ensino",
+      "horario": "19:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Shamira",
+        "back": [
+          "Daniara - Alcilaine - David"
+        ],
+        "teclado": "Jheniffer",
+        "guitarra": "Fernando",
+        "baixo": "Juninho",
+        "bateria": "Gabriel"
+      }
+    },
+    {
+      "id": "2026-10-04-culto-1790704341482",
+      "data": "2026-10-04",
+      "culto": "",
+      "nome": "Culto de Ceia e Domingo a Noite",
+      "horario": "08:30",
+      "local": "Templo principal",
+      "setlist": [
+        69,
+        70,
+        53,
+        58,
+        71,
+        72
+      ],
+      "escala": {
+        "ministro": "Coral",
+        "teclado": "Elizama",
+        "guitarra": "Fernando",
+        "baixo": "Daniel",
+        "bateria": "Gabriel"
+      }
+    },
     {
       "id": "2026-10-07-culto-1791201659786",
       "data": "2026-10-07",
@@ -1180,39 +1044,28 @@ window.LOUVOR_DATA = {
       "nome": "Oração",
       "horario": "19:30",
       "local": "Templo principal",
-      "setlist": [
-        26,
-        28,
-        1
-      ],
-      "escala": {
-        "ministro": "Betânia",
-        "back": [
-          "Geni - Marcia - Joel"
-        ],
-        "teclado": "Emanuelly",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Gabriel"
-      }
+      "setlist": [],
+      "escala": {}
+    },
+    {
+      "id": "2026-10-09-culto-1791201694296",
+      "data": "2026-10-09",
+      "culto": "",
+      "nome": "Ensino",
+      "horario": "19:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {}
     },
     {
       "id": "2026-10-11-culto-1791201733366",
       "data": "2026-10-11",
-      "culto": "Quarta",
+      "culto": "",
       "nome": "EBD",
       "horario": "08:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Marciano",
-        "back": [
-          "Betânia - Alcione - Anderson"
-        ],
-        "teclado": "Emanuelle",
-        "baixo": "Juninho",
-        "bateria": "Gabriel"
-      }
+      "escala": {}
     },
     {
       "id": "2026-10-11-culto-1791201757786",
@@ -1221,16 +1074,11 @@ window.LOUVOR_DATA = {
       "nome": "Adoração",
       "horario": "19:00",
       "local": "Templo principal",
-      "setlist": [
-        73,
-        74,
-        75,
-        76
-      ],
+      "setlist": [],
       "escala": {
         "ministro": "Dara",
         "back": [
-          "Emanuelly - Alcilaine - Joel"
+          "Ester - Alcilaine - Joel"
         ],
         "teclado": "Elizama",
         "guitarra": "Fernando",
@@ -1241,20 +1089,12 @@ window.LOUVOR_DATA = {
     {
       "id": "2026-10-14-culto-1791201783745",
       "data": "2026-10-14",
-      "culto": "Quarta",
+      "culto": "",
       "nome": "Oração",
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Eduarda Assis",
-        "back": [
-          "Ester - Elizama - Anderson"
-        ],
-        "teclado": "Elizama",
-        "baixo": "David",
-        "bateria": "Daniel"
-      }
+      "escala": {}
     },
     {
       "id": "2026-10-16-culto-1791201798551",
@@ -1264,15 +1104,7 @@ window.LOUVOR_DATA = {
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "David",
-        "back": [
-          "Geni - Marcia - Marciano"
-        ],
-        "teclado": "Emanuelle",
-        "baixo": "Juninho",
-        "bateria": "Gabriel"
-      }
+      "escala": {}
     },
     {
       "id": "2026-10-18-culto-1791201819245",
@@ -1282,15 +1114,7 @@ window.LOUVOR_DATA = {
       "horario": "08:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Tânia",
-        "back": [
-          "Ester - Alcilaine - Joel"
-        ],
-        "teclado": "Daniel",
-        "baixo": "David",
-        "bateria": "Gabriel"
-      }
+      "escala": {}
     },
     {
       "id": "2026-10-18-culto-1791201837579",
@@ -1300,16 +1124,7 @@ window.LOUVOR_DATA = {
       "horario": "19:00",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Alcilaine",
-        "back": [
-          "Eduarda - Alcione - Mauricio"
-        ],
-        "teclado": "Elizama",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Gabriel"
-      }
+      "escala": {}
     },
     {
       "id": "2026-10-21-culto-1791201865804",
@@ -1319,16 +1134,37 @@ window.LOUVOR_DATA = {
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Mauricio",
-        "back": [
-          "Dara - Marcia - Joel"
-        ],
-        "teclado": "Elizama",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Eliab"
-      }
+      "escala": {}
+    },
+    {
+      "id": "2026-10-23-culto-1791202049946",
+      "data": "2026-10-23",
+      "culto": "",
+      "nome": "Ensino",
+      "horario": "19:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {}
+    },
+    {
+      "id": "2026-10-25-culto-1791202066088",
+      "data": "2026-10-25",
+      "culto": "",
+      "nome": "EBD",
+      "horario": "08:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {}
+    },
+    {
+      "id": "2026-10-25-culto-1791202107196",
+      "data": "2026-10-25",
+      "culto": "",
+      "nome": "Adoração",
+      "horario": "19:00",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {}
     },
     {
       "id": "2026-10-28-culto-1791202129951",
@@ -1338,33 +1174,17 @@ window.LOUVOR_DATA = {
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Alcione",
-        "back": [
-          "Anália - Tânia - Mauricio"
-        ],
-        "teclado": "Emanuelly",
-        "baixo": "Juninho",
-        "bateria": "Daniel"
-      }
+      "escala": {}
     },
     {
-      "id": "2026-10-30-culto-1791382072492",
+      "id": "2026-10-30-culto-1791202170050",
       "data": "2026-10-30",
       "culto": "",
-      "nome": "Ensino",
+      "nome": "Culto de crianças",
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
-      "escala": {
-        "ministro": "Marciano",
-        "back": [
-          "Geni - Alcilaine - Anderson"
-        ],
-        "teclado": "Elizama",
-        "baixo": "David",
-        "bateria": "Gabriel"
-      }
+      "escala": {}
     }
   ],
   "estudos": [
@@ -1737,37 +1557,38 @@ window.LOUVOR_DATA = {
   },
   "eventos": [
     {
-      "id": "evento-2026-10-24-1791381880526",
-      "tipo": "Congresso",
-      "data": "2026-10-24",
-      "horario": "19:00",
-      "nome": "Congresso Ministério Infantil",
+      "id": "evento-2026-09-17-1789471785476",
+      "tipo": "Ensaio",
+      "data": "2026-09-17",
+      "horario": "20:30",
+      "nome": "Ensaio",
       "local": "Templo principal",
-      "descricao": "",
+      "descricao": "Ensaio para culto de domingo a noite",
+      "participantes": [
+        "Equipe da escala do dia 20/09"
+      ]
+    },
+    {
+      "id": "evento-2026-09-22-1790036997645",
+      "tipo": "Ensaio",
+      "data": "2026-09-22",
+      "horario": "19:00",
+      "nome": "Ensaio",
+      "local": "Templo principal",
+      "descricao": "Não faltem.",
       "participantes": [],
       "culto_id": null
     },
     {
-      "id": "evento-2026-10-25-1791381911287",
-      "tipo": "Congresso",
-      "data": "2026-10-25",
-      "horario": "08:30",
-      "nome": "Congresso Ministério Infantil",
+      "id": "evento-2026-10-01-1790710016448",
+      "tipo": "Ensaio",
+      "data": "2026-10-01",
+      "horario": "19:30",
+      "nome": "Ensaio",
       "local": "Templo principal",
-      "descricao": "",
+      "descricao": "Ensaio com coral",
       "participantes": [],
-      "culto_id": null
-    },
-    {
-      "id": "evento-2026-10-25-1791381935516",
-      "tipo": "Congresso",
-      "data": "2026-10-25",
-      "horario": "19:00",
-      "nome": "Congresso Ministério Infantil",
-      "local": "Templo principal",
-      "descricao": "",
-      "participantes": [],
-      "culto_id": null
+      "culto_id": "2026-10-04-culto-1790704341482"
     }
   ]
 };
