@@ -1212,32 +1212,9 @@ window.LOUVOR_DATA = {
   ],
   "cultos": [
     {
-      "id": "2026-10-07-culto-1791201659786",
-      "data": "2026-10-07",
+      "id": "2026-11-08-culto-1794102088281",
+      "data": "2026-11-08",
       "culto": "",
-      "nome": "Oração",
-      "horario": "19:30",
-      "local": "Templo principal",
-      "setlist": [
-        26,
-        28,
-        1
-      ],
-      "escala": {
-        "ministro": "Betânia",
-        "back": [
-          "Geni - Marcia - Joel"
-        ],
-        "teclado": "Emanuelly",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Gabriel"
-      }
-    },
-    {
-      "id": "2026-10-11-culto-1791201733366",
-      "data": "2026-10-11",
-      "culto": "Quarta",
       "nome": "EBD",
       "horario": "08:30",
       "local": "Templo principal",
@@ -1245,30 +1222,26 @@ window.LOUVOR_DATA = {
       "escala": {
         "ministro": "Marciano",
         "back": [
-          "Betânia - Alcione - Anderson"
+          "Daniara - Elizama - Joel"
         ],
-        "teclado": "Emanuelle",
-        "baixo": "Juninho",
+        "teclado": "Elizama",
+        "violao": "Fernando",
+        "baixo": "Daniel",
         "bateria": "Gabriel"
       }
     },
     {
-      "id": "2026-10-11-culto-1791201757786",
-      "data": "2026-10-11",
+      "id": "2026-11-08-culto-1794102112755",
+      "data": "2026-11-08",
       "culto": "",
       "nome": "Adoração",
       "horario": "19:00",
       "local": "Templo principal",
-      "setlist": [
-        73,
-        74,
-        75,
-        76
-      ],
+      "setlist": [],
       "escala": {
-        "ministro": "Dara",
+        "ministro": "Shamira",
         "back": [
-          "Emanuelly - Alcilaine - Joel"
+          "Alcione - Marcia - Marciano"
         ],
         "teclado": "Elizama",
         "guitarra": "Fernando",
@@ -1277,105 +1250,8 @@ window.LOUVOR_DATA = {
       }
     },
     {
-      "id": "2026-10-14-culto-1791201783745",
-      "data": "2026-10-14",
-      "culto": "Quarta",
-      "nome": "Oração",
-      "horario": "19:30",
-      "local": "Templo principal",
-      "setlist": [],
-      "escala": {
-        "ministro": "Eduarda Assis",
-        "back": [
-          "Ester - Elizama - Anderson"
-        ],
-        "teclado": "Elizama",
-        "baixo": "David",
-        "bateria": "Daniel"
-      }
-    },
-    {
-      "id": "2026-10-16-culto-1791201798551",
-      "data": "2026-10-16",
-      "culto": "",
-      "nome": "Ensino",
-      "horario": "19:30",
-      "local": "Templo principal",
-      "setlist": [],
-      "escala": {
-        "ministro": "David",
-        "back": [
-          "Geni - Marcia - Marciano"
-        ],
-        "teclado": "Emanuelle",
-        "baixo": "Juninho",
-        "bateria": "Gabriel"
-      }
-    },
-    {
-      "id": "2026-10-18-culto-1791201819245",
-      "data": "2026-10-18",
-      "culto": "",
-      "nome": "EBD",
-      "horario": "08:30",
-      "local": "Templo principal",
-      "setlist": [],
-      "escala": {
-        "ministro": "Tânia",
-        "back": [
-          "Ester - Alcilaine - Joel"
-        ],
-        "teclado": "Daniel",
-        "baixo": "David",
-        "bateria": "Gabriel"
-      }
-    },
-    {
-      "id": "2026-10-18-culto-1791201837579",
-      "data": "2026-10-18",
-      "culto": "",
-      "nome": "Adoração",
-      "horario": "19:00",
-      "local": "Templo principal",
-      "setlist": [
-        77,
-        28,
-        78,
-        62
-      ],
-      "escala": {
-        "ministro": "Alcilaine",
-        "back": [
-          "Eduarda - Alcione - Mauricio"
-        ],
-        "teclado": "Elizama",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Gabriel"
-      }
-    },
-    {
-      "id": "2026-10-21-culto-1791201865804",
-      "data": "2026-10-21",
-      "culto": "",
-      "nome": "Oração",
-      "horario": "19:30",
-      "local": "Templo principal",
-      "setlist": [],
-      "escala": {
-        "ministro": "Mauricio",
-        "back": [
-          "Dara - Marcia - Joel"
-        ],
-        "teclado": "Elizama",
-        "guitarra": "Fernando",
-        "baixo": "Daniel",
-        "bateria": "Eliab"
-      }
-    },
-    {
-      "id": "2026-10-28-culto-1791202129951",
-      "data": "2026-10-28",
+      "id": "2026-11-11-culto-1794102131711",
+      "data": "2026-11-11",
       "culto": "",
       "nome": "Oração",
       "horario": "19:30",
@@ -1384,28 +1260,178 @@ window.LOUVOR_DATA = {
       "escala": {
         "ministro": "Alcione",
         "back": [
-          "Anália - Tânia - Mauricio"
+          "Anália - Elizama - Anderson"
         ],
-        "teclado": "Emanuelly",
+        "teclado": "Emanuelle",
+        "violao": "Fernando",
         "baixo": "Juninho",
-        "bateria": "Daniel"
+        "bateria": "Gabriel"
       }
     },
     {
-      "id": "2026-10-30-culto-1791382072492",
-      "data": "2026-10-30",
+      "id": "2026-11-15-culto-1794102152811",
+      "data": "2026-11-15",
       "culto": "",
-      "nome": "Ensino",
+      "nome": "EBD",
+      "horario": "08:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Alcilaine",
+        "back": [
+          "Alcione - Elizama - Joel"
+        ],
+        "teclado": "Elizama",
+        "baixo": "Daniel",
+        "bateria": "Gabriel"
+      }
+    },
+    {
+      "id": "2026-11-15-culto-1794102226083",
+      "data": "2026-11-15",
+      "culto": "",
+      "nome": "Adoração",
+      "horario": "19:00",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Betânia",
+        "back": [
+          "Daniara - Alcilaine - Maurício"
+        ],
+        "teclado": "Daniel",
+        "guitarra": "Fernando",
+        "baixo": "David",
+        "bateria": "Eliab"
+      }
+    },
+    {
+      "id": "2026-11-18-culto-1794102244897",
+      "data": "2026-11-18",
+      "culto": "",
+      "nome": "Oração",
       "horario": "19:30",
       "local": "Templo principal",
       "setlist": [],
       "escala": {
-        "ministro": "Marciano",
+        "ministro": "Shamira",
         "back": [
-          "Geni - Alcilaine - Anderson"
+          "Geni - Elizama - Joel"
+        ],
+        "teclado": "Elizama",
+        "baixo": "Daniel",
+        "bateria": "Eliab"
+      }
+    },
+    {
+      "id": "2026-11-22-culto-1794102287243",
+      "data": "2026-11-22",
+      "culto": "",
+      "nome": "EBD",
+      "horario": "08:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Tânia",
+        "back": [
+          "Shamira - Marcia - Anderson"
         ],
         "teclado": "Elizama",
         "baixo": "David",
+        "bateria": "Gabriel"
+      }
+    },
+    {
+      "id": "2026-11-22-culto-1794102305505",
+      "data": "2026-11-22",
+      "culto": "",
+      "nome": "Adoração",
+      "horario": "19:00",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Alcilaine",
+        "back": [
+          "Ester - Marcia - Maurício"
+        ],
+        "teclado": "Daniel",
+        "guitarra": "Fernando",
+        "baixo": "David",
+        "bateria": "Eliab"
+      }
+    },
+    {
+      "id": "2026-11-25-culto-1794102328760",
+      "data": "2026-11-25",
+      "culto": "",
+      "nome": "Oração",
+      "horario": "19:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Betânia",
+        "back": [
+          "Geni - ELizama - Joel"
+        ],
+        "teclado": "Elizama",
+        "baixo": "Daniel",
+        "bateria": "Eliab"
+      }
+    },
+    {
+      "id": "2026-11-29-culto-1794102345195",
+      "data": "2026-11-29",
+      "culto": "",
+      "nome": "EDB",
+      "horario": "08:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Eduarda Assis",
+        "back": [
+          "Shamira - Alcilaine - Marciano"
+        ],
+        "teclado": "Daniel",
+        "guitarra": "Fernando",
+        "baixo": "David",
+        "bateria": "Gabriel"
+      }
+    },
+    {
+      "id": "2026-11-29-culto-1794102364172",
+      "data": "2026-11-29",
+      "culto": "",
+      "nome": "Adoração",
+      "horario": "19:00",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Alcilaine",
+        "back": [
+          "Ester - Marcia - Maurício"
+        ],
+        "teclado": "Daniel",
+        "guitarra": "Fernando",
+        "baixo": "David",
+        "bateria": "Eliab"
+      }
+    },
+    {
+      "id": "2026-11-14-Sábado-1794103316402",
+      "data": "2026-11-14",
+      "culto": "Sábado",
+      "nome": "Culto de Jovens",
+      "horario": "19:30",
+      "local": "Templo principal",
+      "setlist": [],
+      "escala": {
+        "ministro": "Alcilaineq",
+        "back": [
+          "Daniara - Alcione - Joel"
+        ],
+        "teclado": "Emanuelly",
+        "guitarra": "Fernando",
+        "baixo": "Daniel",
         "bateria": "Gabriel"
       }
     }
@@ -1778,39 +1804,5 @@ window.LOUVOR_DATA = {
     "autor": "Liderança do Louvor",
     "data": "2026-09-29"
   },
-  "eventos": [
-    {
-      "id": "evento-2026-10-24-1791381880526",
-      "tipo": "Congresso",
-      "data": "2026-10-24",
-      "horario": "19:00",
-      "nome": "Congresso Ministério Infantil",
-      "local": "Templo principal",
-      "descricao": "",
-      "participantes": [],
-      "culto_id": null
-    },
-    {
-      "id": "evento-2026-10-25-1791381911287",
-      "tipo": "Congresso",
-      "data": "2026-10-25",
-      "horario": "08:30",
-      "nome": "Congresso Ministério Infantil",
-      "local": "Templo principal",
-      "descricao": "",
-      "participantes": [],
-      "culto_id": null
-    },
-    {
-      "id": "evento-2026-10-25-1791381935516",
-      "tipo": "Congresso",
-      "data": "2026-10-25",
-      "horario": "19:00",
-      "nome": "Congresso Ministério Infantil",
-      "local": "Templo principal",
-      "descricao": "",
-      "participantes": [],
-      "culto_id": null
-    }
-  ]
+  "eventos": []
 };
